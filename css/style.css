@@ -73,6 +73,8 @@ main .imgs {
 main .container2 { 
     background-image: url(../Images/image2.avif);
     margin: auto;
+    padding: 100px 0;
+    margin-bottom: 50px;
 }
 
 main span {
@@ -91,7 +93,7 @@ main .container1 ul {
 
 main .container1 h3 {
     text-align: left;
-    
+        
 }
 
 main .cv {
